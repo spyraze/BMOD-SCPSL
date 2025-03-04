@@ -16,5 +16,5 @@ Then go to or see github repository
 
 Manual
 Then go to or see github repository
-      https://github.com/spyraze/BAMER---SCP-SL-Blender-Modeler/blob/main/Features_and_explanations_of_BAMER.pdf
+     https://github.com/spyraze/BAMER---SCP-SL-Blender-Modeler/blob/main/Manual_for_BAMER.pdf
 
