@@ -9,6 +9,8 @@ You will need to have a Local Server with EXILED/LABAPI and plugin Map Editor Re
 
 Blender
       https://www.blender.org/download
+
+      
 Then go to or see github repository
       https://github.com/spyraze/BAMER---SCP-SL-Blender-Modeler/blob/main/Instalation_Manual_BAMER.pdf
 
