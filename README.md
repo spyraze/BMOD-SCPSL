@@ -12,14 +12,11 @@ Blender
 
       
 Then go to or see github repository
-
-      https://github.com/spyraze/BAMER---SCP-SL-Blender-Modeler/blob/main/Instalation_Manual_BAMER.pdf
+https://github.com/spyraze/BAMER---SCP-SL-Blender-Modeler/blob/main/Instalation_Manual_BAMER.pdf
 
 Manual
 Then go to or see github repository
-
-
-     https://github.com/spyraze/BAMER---SCP-SL-Blender-Modeler/blob/main/Manual_for_BAMER.pdf
+https://github.com/spyraze/BAMER---SCP-SL-Blender-Modeler/blob/main/Manual_for_BAMER.pdf
 
 BAMER Discord
 https://discord.gg/QajpA4bM
