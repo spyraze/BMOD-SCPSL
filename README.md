@@ -18,6 +18,10 @@ https://github.com/spyraze/BAMER---SCP-SL-Blender-Modeler/blob/main/Instalation_
 For manual go to :
 https://github.com/spyraze/BAMER---SCP-SL-Blender-Modeler/blob/main/Manual_for_BAMER.pdf
 
-To join BAMER Discord:
+Support:
+If you like this project please consider spreading a word about it or give this project a star.
+
+
+Found a bug or need help? join BAMER Discord:
 
 https://discord.gg/QajpA4bM
