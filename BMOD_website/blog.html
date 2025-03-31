@@ -1,0 +1,102 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="color-scheme" content="light dark">
+    <title>Stranka moja</title>
+    <meta name="description" content="Pekny web">
+
+    <!-- Pico.css -->
+    <link rel="stylesheet"href="https://cdn.jsdelivr.net/npm/@picocss/pico@2.1.1/css/pico.min.css" >
+  </head>
+ <!-- Header -->
+ <nav style="margin-top: -15px; margin-left: 5px;">
+
+  <ul>
+    <li>
+      <details class="dropdown">
+        <summary role="button" class="secondary">Menu</summary>
+        <ul>  
+          <li><a href="starter_page.html" >Main page</a></li>
+          <li><a href="convert.html" >Convert </a></li>
+          <li><a href="blog.html" >Dev log</a></li>
+          <li><a href="#" >Discord</a></li>
+          <li><a href="#" >Youtube</a></li>
+        </ul>
+      </details>
+    </li>
+  </ul>
+</nav>
+    <header class="container">
+      <hgroup>
+        <h1 style="text-align: center;">BMOD devlog</h1>
+        <p style="text-align: center;">Nice website</p>
+      </hgroup>
+     
+    </header>
+    <!-- ./ Header -->
+
+  <body>
+    <!-- Header -->
+    <main class="container">
+
+
+      <!-- Article-->
+      <article id="article">
+        <h2>Article</h2>
+        <p>
+          Nullam dui arcu, malesuada et sodales eu, efficitur vitae dolor. Sed ultricies dolor non
+          ante vulputate hendrerit. Vivamus sit amet suscipit sapien. Nulla iaculis eros a elit
+          pharetra egestas. Nunc placerat facilisis cursus. Sed vestibulum metus eget dolor pharetra
+          rutrum.
+        </p>
+        <footer>
+          <small>Duis nec elit placerat, suscipit nibh quis, finibus neque.</small>
+        </footer>
+      </article>
+      <!-- ./ Article-->
+
+    
+      <!-- Loading -->
+     
+    </main>
+    <!-- Modal example -->
+    <dialog id="modal-example">
+      <article>
+        <header>
+          <button
+            aria-label="Close"
+            rel="prev"
+            data-target="modal-example"
+            onclick="toggleModal(event)"
+          ></button>
+          <h3>Confirm your action!</h3>
+        </header>
+        <p>
+          Cras sit amet maximus risus. Pellentesque sodales odio sit amet augue finibus
+          pellentesque. Nullam finibus risus non semper euismod.
+        </p>
+        <footer>
+          <button
+            role="button"
+            class="secondary"
+            data-target="modal-example"
+            onclick="toggleModal(event)"
+          >
+            Cancel</button
+          ><button autofocus data-target="modal-example" onclick="toggleModal(event)">
+            Confirm
+          </button>
+        </footer>
+      </article>
+    </dialog>
+    <!-- ./ Modal example -->
+
+    <!-- Minimal theme switcher -->
+    <script src="js/minimal-theme-switcher.js"></script>
+
+    <!-- Modal -->
+    <script src="js/modal.js"></script>
+  </body>
+</html>
