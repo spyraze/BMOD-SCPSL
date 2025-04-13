@@ -11,7 +11,7 @@ Blender
       https://www.blender.org/download
 
       
-Then go to or see github repository:
+Then go to Instalation manual:
 https://github.com/spyraze/BAMER---SCP-SL-Blender-Modeler/blob/main/Instalation_Manual_BAMER.pdf
 
 
@@ -22,8 +22,6 @@ https://github.com/spyraze/BAMER---SCP-SL-Blender-Modeler/blob/main/Manual_for_B
 
 
 Found a bug or need help? join BAMER Discord:
+https://discord.gg/4Ttfsw62
 
-https://discord.gg/QajpA4bM
 
-
-If you like this project or want to supprot me, please consider spreading a word about it or give this project a star.
