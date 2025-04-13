@@ -2,12 +2,13 @@
 Blender Addon for Moddeling objects easily for Map Editor Reborn
 
 
-Installation
+Installation down bellow:
 
 Install BAMER_ADDON from releases
 You will need to have a EXILED/LABAPI and plugin Map Editor Reborn
 
-Blender
+Blender:
+
       https://www.blender.org/download
 
       
