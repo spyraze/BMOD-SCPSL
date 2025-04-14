@@ -1,4 +1,4 @@
-# BAMER---SCP-SL-Blender-Modeler
+# BMOD Blender Modding plugin for SCP SL
 Blender Addon for Moddeling objects easily for Map Editor Reborn
 
 
