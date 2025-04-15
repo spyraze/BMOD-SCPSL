@@ -26,6 +26,6 @@ Found a bug or need help? join BAMER Discord:
 https://discord.gg/4Ttfsw62
 
 
-BMOD blog:
+BMOD website:
  https://spyraze.github.io/BMOD_website/index.html
 
