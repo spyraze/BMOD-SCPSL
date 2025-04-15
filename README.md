@@ -17,7 +17,7 @@ https://github.com/spyraze/BAMER---SCP-SL-Blender-Modeler/blob/main/Instalation_
 
 
 For manual go to :
-https://github.com/spyraze/BAMER---SCP-SL-Blender-Modeler/blob/main/Manual_for_BAMER.pdf
+https://github.com/spyraze/BMOD-SCPSL/blob/main/Manual_BMOD.pdf
 
 
 
