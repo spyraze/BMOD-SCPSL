@@ -14,7 +14,7 @@ Installation down bellow:
       
 -Then go to Instalation manual:
 
-. https://github.com/spyraze/BMOD-SCPSL/blob/main/Manual_BMOD.pdf
+. https://github.com/spyraze/BMOD-SCPSL/blob/main/Instalation_Manual_BMOD.pdf
 
 
 -For manual about BMOD go to:
