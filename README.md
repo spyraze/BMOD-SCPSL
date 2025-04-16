@@ -14,7 +14,7 @@ Installation down bellow:
       
 -Then go to Instalation manual:
 
-. https://github.com/spyraze/BAMER---SCP-SL-Blender-Modeler/blob/main/Instalation_Manual_BAMER.pdf
+. https://github.com/spyraze/BMOD-SCPSL/blob/main/Manual_BMOD.pdf
 
 
 -For manual about BMOD go to:
