@@ -1,6 +1,9 @@
 <h1 align="center">BMOD SCP:SL </h1>
 <h3 align="center"><a href="https://www.blender.org/download">Blender</a> Blender addon for converting blender objects into MER objects</h3>
 
+<a href="[https://discord.gg/JwAfeSd79u](https://discord.gg/4Ttfsw62)">
+    <img src="https://img.shields.io/discord/947849283514814486?style=for-the-badge&logo=discord" alt="Report bug on Discord">
+</a>    
 Installation down bellow:
 
 -Install BAMER_ADDON from releases
@@ -21,14 +24,4 @@ Installation down bellow:
 . https://github.com/spyraze/BMOD-SCPSL/blob/main/Manual_BMOD.pdf
 
 
-
-
-Found a bug or need help? join BAMER Discord:
- 
-. https://discord.gg/4Ttfsw62
-
-
-BMOD website:
-
- . https://spyraze.github.io/BMOD_website/index.html
 
