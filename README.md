@@ -22,7 +22,7 @@ Installation down bellow:
       
 - Then go to Instalation manual:
 
- <h5 align="center"> <a   href="https://github.com/spyraze/BMOD-SCPSL/blob/main/Instalation_Manual_BMOD.pdf">Instalation Manual</a> </h5>
+ <h5 align="center"> <a   href="https://github.com/spyraze/BMOD-SCPSL/blob/main/Installation_BMOD.pdf">Instalation Manual</a> </h5>
 
 - For manual about BMOD go to:
 
