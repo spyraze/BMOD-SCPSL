@@ -12,7 +12,7 @@ Installation down bellow:
 
 -You will need to have a EXILED/LABAPI and plugin Map Editor Reborn
 
--Blender:
+- Install Blender here:
 
  <h3 align="center"><a   href="https://www.blender.org/download">Blender</a> </h3>
 
