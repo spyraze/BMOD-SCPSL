@@ -12,21 +12,21 @@ Installation down bellow:
 
 - You will need to have a EXILED/LABAPI and plugin Map Editor Reborn
 
- <h4 align="center">        https://github.com/Michal78900/MapEditorReborn/tree/main?tab=readme-ov-file </h4>
+ <h5 align="center">        https://github.com/Michal78900/MapEditorReborn/tree/main?tab=readme-ov-file </h5>
 
 
 - Install Blender here:
 
- <h4 align="center"><a   href="https://www.blender.org/download">Blender</a> </h4>
+ <h5 align="center"><a   href="https://www.blender.org/download">Blender</a> </h5>
 
       
 - Then go to Instalation manual:
 
- <h4 align="center"> https://github.com/spyraze/BMOD-SCPSL/blob/main/Instalation_Manual_BMOD.pdf" </h4>
+ <h5 align="center"> https://github.com/spyraze/BMOD-SCPSL/blob/main/Instalation_Manual_BMOD.pdf" </h5>
 
 - For manual about BMOD go to:
 
-<h4 align="center"> https://github.com/spyraze/BMOD-SCPSL/blob/main/Manual_BMOD.pdf </h4>
+<h5 align="center"> https://github.com/spyraze/BMOD-SCPSL/blob/main/Manual_BMOD.pdf </h5>
 
 
 
