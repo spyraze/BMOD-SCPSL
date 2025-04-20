@@ -1,8 +1,8 @@
 <h1 align="center">BMOD SCP:SL </h1>
 <h3 align="center"><a href="https://www.blender.org/download">Blender</a> Blender addon for converting blender objects into MER objects</h3>
 
-<a href="[https://discord.gg/JwAfeSd79u](https://discord.gg/4Ttfsw62)">
-    <img src="" alt="Report bug on Discord">
+<a href="https://discord.gg/wn8h8Dvx">
+    <img src=https://static-00.iconduck.com/assets.00/discord-icon-2048x2048-nnt62s2u.png"" alt="Report bug on Discord">
 </a>    
 Installation down bellow:
 
