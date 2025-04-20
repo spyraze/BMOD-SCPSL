@@ -1,5 +1,3 @@
-# BMOD Blender Modding plugin for SCP SL
-Blender Addon for Moddeling objects easily for Map Editor Reborn
 
 
 Installation down bellow:
