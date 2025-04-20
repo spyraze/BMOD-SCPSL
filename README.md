@@ -12,7 +12,7 @@ Installation down bellow:
 
 - You will need to have a EXILED/LABAPI and plugin Map Editor Reborn
 
- <h5 align="center">     <a   href="https://github.com/Michal78900/MapEditorReborn/tree/main?tab=readme-ov-file">Blender</a>    </h5>
+ <h5 align="center">     <a   href="https://github.com/Michal78900/MapEditorReborn/tree/main?tab=readme-ov-file">Map Editor Reborn Github</a>    </h5>
 
 
 - Install Blender here:
