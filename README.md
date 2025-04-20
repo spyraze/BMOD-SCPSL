@@ -22,7 +22,7 @@ Installation down bellow:
       
 - Then go to Instalation manual:
 
- <h5 align="center"> https://github.com/spyraze/BMOD-SCPSL/blob/main/Instalation_Manual_BMOD.pdf" </h5>
+ <h5 align="center"> <a   href="https://github.com/spyraze/BMOD-SCPSL/blob/main/Instalation_Manual_BMOD.pdf">Map Editor Reborn Github</a> </h5>
 
 - For manual about BMOD go to:
 
