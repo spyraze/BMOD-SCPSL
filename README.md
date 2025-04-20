@@ -2,7 +2,7 @@
 <h3 align="center"><a href="https://www.blender.org/download">Blender</a> Blender addon for converting blender objects into MER objects</h3>
 
 <a href="https://discord.gg/wn8h8Dvx">
-     alt="Report bug on Discord">
+     <alt="Report bug on Discord">
 </a>    
 
 Installation down bellow:
