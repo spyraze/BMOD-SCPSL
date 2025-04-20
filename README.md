@@ -4,6 +4,7 @@
 <a href="https://discord.gg/wn8h8Dvx">
     <img src=https://static-00.iconduck.com/assets.00/discord-icon-2048x2048-nnt62s2u.png"" alt="Report bug on Discord">
 </a>    
+
 Installation down bellow:
 
 -Install BAMER_ADDON from releases
