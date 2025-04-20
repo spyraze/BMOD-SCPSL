@@ -1,4 +1,4 @@
-#BMOD SCP:SL
+<h1 align="center">BMOD SCP:SL </h1>
 
 Installation down bellow:
 
