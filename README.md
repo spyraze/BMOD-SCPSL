@@ -1,4 +1,5 @@
 <h1 align="center">BMOD SCP:SL </h1>
+<h3 align="center"><a href="https://www.blender.org/download">Blender</a> Blender addon for converting blender objects into MER objects</h3>
 
 Installation down bellow:
 
