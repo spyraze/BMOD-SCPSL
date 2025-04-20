@@ -11,6 +11,7 @@ Installation down bellow:
 -Install BAMER_ADDON from releases
 
 -You will need to have a EXILED/LABAPI and plugin Map Editor Reborn
+       https://github.com/Michal78900/MapEditorReborn/tree/main?tab=readme-ov-file
 
 - Install Blender here:
 
