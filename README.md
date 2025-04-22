@@ -13,7 +13,7 @@
 <h6>  . </h6>
 
 
-- You will need to have a EXILED/LABAPI and plugin Map Editor Reborn
+<h5>  - You will need to have a EXILED/LABAPI and plugin Map Editor Reborn </h5>
 
  <h5 align="center">     <a   href="https://github.com/Michal78900/MapEditorReborn/tree/main?tab=readme-ov-file">Map Editor Reborn Github</a>    </h5>
 
