@@ -6,9 +6,6 @@
      <alt="Report bug on Discord">
 </a>    
 
-Installation down bellow:
-
-- Install BAMER_ADDON from releases
 
 - You will need to have a EXILED/LABAPI and plugin Map Editor Reborn
 
