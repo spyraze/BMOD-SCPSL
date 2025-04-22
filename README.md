@@ -10,7 +10,7 @@
 
 
 
-<h3>   </h3>
+<h6>  . </h6>
 
 
 - You will need to have a EXILED/LABAPI and plugin Map Editor Reborn
