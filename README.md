@@ -2,6 +2,8 @@
 
 
 <h3 align="center"> Blender addon for converting blender objects into MER objects</h3>
+
+
 <a href="https://discord.gg/wn8h8Dvx">
      <alt="Report bug on Discord">
 </a>    
