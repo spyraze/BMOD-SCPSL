@@ -4,9 +4,9 @@
 <h3 align="center"> Blender addon for converting blender objects into MER objects</h3>
 
 
-<a href="https://discord.gg/wn8h8Dvx">
+<h3><a href="https://discord.gg/wn8h8Dvx">
      <alt="Report bug on Discord">
-</a>    
+</a></h3>
 
 
 - You will need to have a EXILED/LABAPI and plugin Map Editor Reborn
