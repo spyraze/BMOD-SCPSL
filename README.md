@@ -5,7 +5,7 @@
 
 
 <h3 align="center" ><a href="https://discord.gg/wn8h8Dvx">
-     Report bug on Discord
+      Discord
 </a></h3>
 
 
