@@ -1,4 +1,4 @@
-<h1 align="center">BMOD SCP:SL </h1>
+<h1 align="center">BAMER SCP:SL </h1>
 
 
 <h3 align="center"> Blender addon for converting blender objects into MER objects</h3>
