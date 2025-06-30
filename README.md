@@ -4,7 +4,7 @@
 <h3 align="center"> Blender addon for converting blender objects into MER objects</h3>
 
 
-<h3 align="center" ><a href="https://discord.gg/zfhqTnqc">
+<h3 align="center" ><a href="https://discord.gg/jJNWn5bh">
       Discord
 </a></h3>
 
